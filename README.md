@@ -1,6 +1,6 @@
 # NYC Airbnb Price Prediction
 
-This repository contains a comprehensive machine learning project aimed at predicting Airbnb prices in New York City. The project covers data preparation, feature engineering, model training, evaluation, and optimization. By combining traditional statistical methods with modern AutoML techniques, the final model is both accurate and interpretable—ready for real-world deployment.
+This repository contains a comprehensive machine learning project aimed at predicting Airbnb prices in New York City. The project covers data preparation, feature engineering, model training, evaluation, and optimization. By combining traditional statistical methods with modern AutoML techniques, the final model is both accurate and interpretable
 
 ---
 
